@@ -39,7 +39,7 @@ sequelize db:seed:all
 * In Chrome type in the search bar
 
 ```
-http://localhost:3000/
+http://localhost:8080/
 ```
 
 * You should see `OK` displayed in the browser. This means your server is running correctly!
